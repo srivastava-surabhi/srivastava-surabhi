@@ -39,3 +39,57 @@
 ### Tools:
 ![Visual Studio Code](https://i.imgur.com/F8fhe74.png)
 ![Postman](https://i.imgur.com/OqgBMn7.png)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srivastava-surabhi&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivastava-surabhi&theme=dracula" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastava-surabhi&layout=compact&theme=dracula" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/srivastava-surabhi" target="_blank">
+    <img src="https://img.shields.io/github/followers/srivastava-surabhi?label=Follow&style=social" alt="Follow" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/github/stars/srivastava-surabhi?style=social" alt="Stars" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/github/forks/srivastava-surabhi?style=social" alt="Forks" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srivastava-surabhi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/srivastava-surabhi" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/m/srivastava-surabhi?style=flat-square" alt="Commit activity" />
+  </a>
+  <a href="https://github.com/srivastava-surabhi" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/srivastava-surabhi/srivastava-surabhi?style=flat-square" alt="Last commit" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-orange.svg" alt="Made with love" />
+  <img src="https://img.shields.io/badge/Made%20in-India-blue.svg" alt="Made in India" />
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/
