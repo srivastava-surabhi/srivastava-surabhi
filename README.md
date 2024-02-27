@@ -9,7 +9,7 @@
   📫 How to reach me: sainishivam493@gmail.com.
 
 ## 🌐 Socials:
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- [LinkedIn](https://www.linkedin.com/in/srivastavasurabhi)
 - [Twitter](https://twitter.com/your-twitter-handle)
 
 ## 💻 Tech Stack:
