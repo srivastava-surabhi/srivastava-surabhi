@@ -14,7 +14,7 @@
 
 ## 💻 Tech Stack:
 ### Backend:
-'![Java](https://imgur.com/a/vzBvA5S)'
+'![Java](https://imgur.com/JTlRQH0)'
 - Spring Boot
 - SQL
 
