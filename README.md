@@ -28,12 +28,10 @@
 ![MongoDB](https://i.imgur.com/Zks9ZbT.png)
 
 ### Cloud:
-- AWS
-- Google Cloud Platform
+![Google Cloud Platform](https://i.imgur.com/1Cs1Ezz.png)
 
 ### Version Control:
-- Git
-- GitHub
+![GitHub](https://i.imgur.com/p7I6UCE.png)
 
 ### Operating System:
 - Windows
