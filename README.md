@@ -1,5 +1,6 @@
 ### Hi there 👋
 # About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+I'm+Surabhi+Srivastava;A+passionate+Full+Stack+Developer.)](https://git.io/typing-svg)
 
 💼 I'm currently working with Java, Spring Boot, SQL, etc.
 🚀 I'm currently learning Front End Development.
