@@ -21,10 +21,11 @@
 ![HTML](https://i.imgur.com/ojEDHSQ.png)
 ![CSS](https://i.imgur.com/6sChXTc.png)
 ![JavaScript](https://i.imgur.com/YAkNLjJ.png)
+![Reactjs](https://i.imgur.com/E6yDQzF.png)
 
 ### Database:
-- MySQL
-- PostgreSQL
+![MySQL](https://i.imgur.com/vUu9cGB.png)
+![MongoDB](https://i.imgur.com/Zks9ZbT.png)
 
 ### Cloud:
 - AWS
