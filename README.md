@@ -1,8 +1,8 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F785B4&random=false&width=435&lines=I'm+Surabhi+Srivastava+%F0%9F%98%8A;a+passionate+Full+Stack+Developer+%F0%9F%92%BB.)](https://git.io/typing-svg)
 # About Me
-  💼 I'm currently working with Java, Spring Boot, SQL, etc.
-  🚀 I'm currently learning Front End Development.
+  💼 I'm currently working with Html, CSS, Javacript, Reactjs, SQL, etc.
+  🚀 I'm currently learning Power BI.
   👨🏻‍💻 Most of my projects are available on Github.
   💬 Connect with me elsewhere but here!
   👾 Fun fact: Equal is Not Always Equal in Javascript.
