@@ -1,12 +1,47 @@
 ### Hi there 👋
+# About Me
 
+💼 I'm currently working with Java, Spring Boot, SQL, etc.
+🚀 I'm currently learning Front End Development.
+👨🏻‍💻 Most of my projects are available on Github.
+💬 Connect with me elsewhere but here!
+👾 Fun fact: Equal is Not Always Equal in Javascript.
+📫 How to reach me: sainishivam493@gmail.com.
 
- 🔭 I’m currently working with Html, CSS, Javascript , Reactjs, Nodejs, SQL, MongoDB
- 🌱 I’m currently learning Power BI
- 👯 I’m looking to collaborate on Medium
- 🤔 I’m looking for help with landind a job in frontend development.
- 💬 Ask me about new emerging technologies.
- 📫 How to reach me: srivastavsurbhaya123@gmail.com
- 😄 Pronouns:She/Her
- ⚡ Fun fact: Equal is Not Always Equal in Javascript.
+## 🌐 Socials:
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- [Twitter](https://twitter.com/your-twitter-handle)
 
+## 💻 Tech Stack:
+### Backend:
+- Java
+- Spring Boot
+- SQL
+
+### Frontend:
+- HTML
+- CSS
+- JavaScript
+
+### Database:
+- MySQL
+- PostgreSQL
+
+### Cloud:
+- AWS
+- Google Cloud Platform
+
+### Version Control:
+- Git
+- GitHub
+
+### Operating System:
+- Windows
+- macOS
+- Linux
+
+### Tools:
+- Visual Studio Code
+- IntelliJ IDEA
+- Postman
+- GitKraken
