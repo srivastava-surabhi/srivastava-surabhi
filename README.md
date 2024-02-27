@@ -6,7 +6,7 @@
   👨🏻‍💻 Most of my projects are available on Github.
   💬 Connect with me elsewhere but here!
   👾 Fun fact: Equal is Not Always Equal in Javascript.
-  📫 How to reach me: sainishivam493@gmail.com.
+  📫 How to reach me: srivastavsurbhaya123@gmail.com.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivastavasurabhi)
