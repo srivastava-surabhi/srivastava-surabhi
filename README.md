@@ -15,7 +15,7 @@
 ## 💻 Tech Stack:
 ### Backend:
 ![Java](https://i.imgur.com/JTlRQH0.png)
-![SQL](https://i.imgur.com/Fp5ZmV9.png)
+![SQL](https://i.imgur.com/WXUp44l.png)
 
 ### Frontend:
 ![HTML](https://i.imgur.com/ojEDHSQ.png)
@@ -34,12 +34,8 @@
 ![GitHub](https://i.imgur.com/kcpmpzw.png)
 
 ### Operating System:
-- Windows
-- macOS
-- Linux
+![Windows](https://i.imgur.com/niRIBvo.png)
 
 ### Tools:
-- Visual Studio Code
-- IntelliJ IDEA
-- Postman
-- GitKraken
+![Visual Studio Code](https://i.imgur.com/F8fhe74.png)
+![Postman](https://i.imgur.com/OqgBMn7.png)
