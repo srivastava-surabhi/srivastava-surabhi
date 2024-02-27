@@ -2,12 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F785B4&random=false&width=435&lines=I'm+Surabhi+Srivastava+%F0%9F%98%8A;a+passionate+Full+Stack+Developer+%F0%9F%92%BB.)](https://git.io/typing-svg)
 # About Me
 <div class="text-left">
-  <h1>💼 I'm currently working with Java, Spring Boot, SQL, etc.</h1>
-  <h1>🚀 I'm currently learning Front End Development.</h1>
-  <h1>👨🏻‍💻 Most of my projects are available on Github.</h1>
-  <h1>💬 Connect with me elsewhere but here!</h1>
-  <h1>👾 Fun fact: Equal is Not Always Equal in Javascript.</h1>
-  <h1>📫 How to reach me: sainishivam493@gmail.com.</h1>
+  <h6>💼 I'm currently working with Java, Spring Boot, SQL, etc.</h6>
+  <h6>🚀 I'm currently learning Front End Development.</h6>
+  <h6>👨🏻‍💻 Most of my projects are available on Github.</h6>
+  <h6>💬 Connect with me elsewhere but here!</h6>
+  <h6>👾 Fun fact: Equal is Not Always Equal in Javascript.</h6>
+  <h6>📫 How to reach me: sainishivam493@gmail.com.</h6>
 </div>
 
 <p align="right">
