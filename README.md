@@ -31,7 +31,7 @@
 ![Google Cloud Platform](https://i.imgur.com/1Cs1Ezz.png)
 
 ### Version Control:
-![GitHub](https://i.imgur.com/p7I6UCE.png)
+![GitHub](https://i.imgur.com/kcpmpzw.png)
 
 ### Operating System:
 - Windows
