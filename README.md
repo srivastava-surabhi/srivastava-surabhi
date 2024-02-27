@@ -15,13 +15,12 @@
 ## 💻 Tech Stack:
 ### Backend:
 ![Java](https://i.imgur.com/JTlRQH0.png)
-- Spring Boot
-- SQL
+![SQL](https://i.imgur.com/Fp5ZmV9.png)
 
 ### Frontend:
-- HTML
-- CSS
-- JavaScript
+![HTML](https://i.imgur.com/ojEDHSQ.png)
+![CSS](https://i.imgur.com/6sChXTc.png)
+![JavaScript](https://i.imgur.com/YAkNLjJ.png)
 
 ### Database:
 - MySQL
