@@ -3,7 +3,7 @@
 
 # ✍️ About Me
 
-💼 Currently working as an **AI Content Writer** with hands-on experience in:
+💼 Currently working as an **AI Content Writer** at *Amazon* with hands-on experience in:
 
 - Prompt Writing & Optimization  
 - AI Response Evaluation (Accuracy, Hallucination, Tone)  
