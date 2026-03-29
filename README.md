@@ -1,94 +1,89 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F785B4&random=false&width=435&lines=I'm+Surabhi+Srivastava+%F0%9F%98%8A;a+passionate+Full+Stack+Developer+%F0%9F%92%BB.)](https://git.io/typing-svg)
-# About Me
-  💼 I'm currently working with Html, CSS, Javacript, Reactjs, SQL, etc.
-  🚀 I'm currently learning Power BI.
-  👨🏻‍💻 Most of my projects are available on Github.
-  💬 Connect with me elsewhere but here!
-  👾 Fun fact: Equal is Not Always Equal in Javascript.
-  📫 How to reach me: srivastavsurbhaya123@gmail.com.
+### Hi there 👋  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F785B4&random=false&width=500&lines=I'm+Surabhi+Srivastava+😊;AI+Content+Writer+%7C+AI+Response+Evaluator;Prompt+Engineering+%7C+Content+Quality+Specialist)](https://git.io/typing-svg)
 
-## 🌐 Socials:
+# ✍️ About Me
+
+💼 Currently working as an **AI Content Writer** with hands-on experience in:
+
+- Prompt Writing & Optimization  
+- AI Response Evaluation (Accuracy, Hallucination, Tone)  
+- Content Quality Analysis & Fact-checking  
+- Handling ambiguous queries & improving responses  
+- Working with structured formats like JSON  
+
+🚀 Passionate about improving **AI-generated content quality** and making it more accurate, safe, and user-friendly  
+
+📚 Currently exploring:
+- Advanced Prompt Engineering techniques  
+- Responsible AI & bias detection  
+- Improving AI-human interaction  
+
+👨🏻‍💻 My focus is to bridge the gap between **AI outputs and human expectations**
+
+📫 Reach me at: **srivastavsurbhaya123@gmail.com**
+
+---
+
+## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivastavasurabhi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username)
 
-## 💻 Tech Stack:
-### Backend:
-![Java](https://i.imgur.com/JTlRQH0.png)
-![SQL](https://i.imgur.com/WXUp44l.png)
+---
 
-### Frontend:
-![HTML](https://i.imgur.com/ojEDHSQ.png)
-![CSS](https://i.imgur.com/6sChXTc.png)
-![JavaScript](https://i.imgur.com/YAkNLjJ.png)
-![Reactjs](https://i.imgur.com/E6yDQzF.png)
+## 🧠 Core Skills
 
-### Database:
-![MySQL](https://i.imgur.com/vUu9cGB.png)
-![MongoDB](https://i.imgur.com/Zks9ZbT.png)
+### 🤖 AI Content & Evaluation:
+- Prompt Engineering  
+- AI Response Evaluation  
+- Hallucination Detection  
+- Fact-checking & Verification  
+- Content Quality Improvement  
 
-### Cloud:
-![Google Cloud Platform](https://i.imgur.com/1Cs1Ezz.png)
+### ✍️ Writing & Analysis:
+- Content Structuring  
+- Clarity & Readability Optimization  
+- Tone & Context Alignment  
+- Handling Edge Cases & Ambiguity  
 
-### Version Control:
-![GitHub](https://i.imgur.com/kcpmpzw.png)
+### ⚙️ Tools & Exposure:
+- JSON Understanding  
+- Basic API Awareness  
+- SQL (Basic)  
+- Postman  
 
-### Operating System:
-![Windows](https://i.imgur.com/niRIBvo.png)
+---
 
-### Tools:
-![Visual Studio Code](https://i.imgur.com/F8fhe74.png)
-![Postman](https://i.imgur.com/OqgBMn7.png)
+## 📊 What I Bring
 
-## 💹 Github Stats:
+✔️ Strong attention to detail in evaluating AI responses  
+✔️ Ability to identify factual errors and improve outputs  
+✔️ Experience working with real-world AI systems  
+✔️ Balance between **quality, accuracy, and user experience**  
+
+---
+
+## 💹 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srivastava-surabhi&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srivastava-surabhi&show_icons=true&theme=dracula" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivastava-surabhi&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivastava-surabhi&theme=dracula" />
+</p>
+
+---
+
+## 🚀 Career Goal
+
+To grow as an **AI Content Specialist / Prompt Engineer**, contributing to building reliable, safe, and high-quality AI systems.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srivastava-surabhi&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastava-surabhi&layout=compact&theme=dracula" alt="Most Used Languages" />
+  <img src="https://img.shields.io/badge/Made%20with-❤️-orange.svg" />
+  <img src="https://img.shields.io/badge/Made%20in-India-blue.svg" />
 </p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/srivastava-surabhi" target="_blank">
-    <img src="https://img.shields.io/github/followers/srivastava-surabhi?label=Follow&style=social" alt="Follow" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/github/stars/srivastava-surabhi?style=social" alt="Stars" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/github/forks/srivastava-surabhi?style=social" alt="Forks" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srivastava-surabhi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/srivastava-surabhi" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/srivastava-surabhi?style=flat-square" alt="Commit activity" />
-  </a>
-  <a href="https://github.com/srivastava-surabhi" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/srivastava-surabhi/srivastava-surabhi?style=flat-square" alt="Last commit" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-orange.svg" alt="Made with love" />
-  <img src="https://img.shields.io/badge/Made%20in-India-blue.svg" alt="Made in India" />
-</p>
-
